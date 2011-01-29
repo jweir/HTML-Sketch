@@ -1,12 +1,8 @@
 # HTML Sketch
 
-This is some boiler plate HTML, Javascript and CSS that I use to quickly sketch up a page or idea.
+Boiler plate HTML, Javascript and CSS that I use to quickly sketch up a page or idea.
 
-## How to use it
-
-[Download](https://github.com/jweir/HTML-Sketch/zipball/master) the zip file, uncompress it and edit away.
-
-The files to edit are *sketch.html*, *sketch.js* and *sketch.css*.
+## [Download](https://github.com/jweir/HTML-Sketch/zipball/master) the zip file, uncompress it and edit away.
 
 ## What have we got here?
 
