@@ -4,7 +4,7 @@ This is some boiler plate HTML, Javascript and CSS that I use to quickly sketch 
 
 ## How to use it
 
-[Download](https://github.com/jweir/Bluemold/zipball/master) the zip file, uncompress it and edit away.
+[Download](https://github.com/jweir/HTML-Sketch/zipball/master) the zip file, uncompress it and edit away.
 
 The files to edit are *sketch.html*, *sketch.js* and *sketch.css*.
 
